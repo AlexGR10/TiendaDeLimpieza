@@ -1,0 +1,34 @@
+.barra-categorias {
+  background-color: #788088;
+  padding: 20px;
+}
+
+.barra-categorias h2 {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.categorias-lista {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.categorias-lista li {
+  margin-right: 10px;
+}
+
+.categorias-lista li:last-child {
+  margin-right: 0;
+}
+
+.categorias-lista li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.categorias-lista li a:hover {
+  color: #007bff;
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "fecha": "2024-03-28",
+        "estatus": "en camino",
+        "cliente": "rodrigoC",
+        "costo_total": 50,
+        "descripcion_pedido": "2 x Camiseta, 1 x Pantalón"
+    },
+    {
+        "fecha": "2024-03-29",
+        "estatus": "entregado",
+        "cliente": "rodrigoC",
+        "costo_total": 30,
+        "descripcion_pedido": "1 x Gorra, 1 x Calcetines"
+    },
+    {
+        "fecha": "2024-03-30",
+        "estatus": "cancelado",
+        "cliente": "rodrigoC",
+        "costo_total": 40,
+        "descripcion_pedido": "2 x Camiseta, 1 x Gorra"
+    },
+    {
+        "fecha": "2024-03-28",
+        "estatus": "en camino",
+        "cliente": "angelC",
+        "costo_total": 60,
+        "descripcion_pedido": "3 x Pantalón"
+    },
+    {
+        "fecha": "2024-03-29",
+        "estatus": "cancelado",
+        "cliente": "angelC",
+        "costo_total": 25,
+        "descripcion_pedido": "1 x Camiseta"
+    }
+]

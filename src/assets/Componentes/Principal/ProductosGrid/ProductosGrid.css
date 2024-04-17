@@ -1,0 +1,43 @@
+.productos {
+  padding: 20px;
+  background-color: rgb(180, 171, 171);
+}
+
+.productos h2 {
+  margin-bottom: 10px;
+}
+
+.productosGrid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.producto {
+  width: 25%; /* Esto hará que cada producto ocupe el 25% del contenedor */
+  padding: 10px;
+  box-sizing: border-box; /* Incluye el padding en el ancho total del producto */
+}
+
+.producto img {
+  width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+  height: auto; /* Ajusta la altura automáticamente para mantener la relación de aspecto */
+}
+
+.producto h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.producto p {
+  margin-bottom: 5px;
+}
+
+/* Estilos para los enlaces */
+.producto a {
+  text-decoration: none; /* Quita el subrayado del enlace */
+  color: inherit; /* Mantiene el color del texto heredado */
+}
+
+.producto a:hover {
+  color: inherit; /* Mantén el color del texto heredado en el estado hover */
+}

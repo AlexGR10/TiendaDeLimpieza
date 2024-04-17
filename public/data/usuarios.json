@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Admin1",
+        "usuario": "admin1",
+        "contraseña": "admin123",
+        "categoria": "admin",
+        "correo_electronico": "admin1@example.com"
+    },
+    {
+        "nombre": "Rodrigo Custumer",
+        "usuario": "rodrigoC",
+        "contraseña": "customer123",
+        "categoria": "customer",
+        "correo_electronico": "customer1@example.com"
+    },
+    {
+        "nombre": "Angel Custumer",
+        "usuario": "angelC",
+        "contraseña": "customer456",
+        "categoria": "customer",
+        "correo_electronico": "customer2@example.com"
+    }
+]

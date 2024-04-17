@@ -1,0 +1,26 @@
+.principal {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: gray;
+    padding: 20px;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .imagen {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .imagen img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .detalles {
+    flex: 1;
+    padding: 10px;
+  }
+  
