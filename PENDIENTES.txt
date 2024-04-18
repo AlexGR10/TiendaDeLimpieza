@@ -1,4 +1,42 @@
+Imagenes:
+	Solucionar visualización de imágenes
+
+Producto Individual:
+	Añadir apartado de comentarios y estrellas
+
 Filtro:
--Que funcione el precio
--Que ordene el array en turno, no el principal
+	-Que funcione el precio
+	-Que ordene el array en turno, no el principal
+
+Información:
+	Agregar: Sobre nosotros
+	Configurar links Contacto
+	Agregar:Términos y condiciones
+	Agregar: Políticas de privacidad
+
+Redes Sociales:
+	-Crear cuenta de Facebook
+
+Login:
+	Separar en dos JSON user y admin
+	Hacer validación en Login Admin y User
+	Completar Crear Cuenta User
+	Detectar inicio de sesion User en la pagina para acceder a Mi Cuenta
+
+Mi Cuenta:
+	Amplicar Campos del JSON
+	Acceder después de iniciar sesión
+	Poder visualizar y editar info del cliente sacada del JSON.
+	Lista de Deseos
+	Carrito de compras
+	Comentarios y estrellas en Productos
+	Poder hacer una compra (implementar PayPal Prueba)
+
+Admin:
+	Acceder después de iniciar sesión
+	Poder visualizar y editar info del admin sacada del JSON
+	Tabla para editar, crear o borrar Productos
+	Vista para editar o crear Producto
+	Vista de control de pedidos de clientes
+	Vista de Ventas de clientes	
 
