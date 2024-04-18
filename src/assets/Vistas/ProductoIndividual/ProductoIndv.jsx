@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import productosJSON from '../data/productos.json';
+import productosJSON from '/public/data/productos.json';
 
 const styles = {
   principal: {

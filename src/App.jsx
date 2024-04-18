@@ -1,8 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Principal from './assets/Vistas/Principal/Principal';
 import NavBar from './assets/Vistas/NavBar/Navbar';
 import Footer from './assets/Vistas/Footer/Footer';
+import Principal from './assets/Vistas/Principal/Principal';
+import ProductoIndv from './assets/Vistas/ProductoIndividual/ProductoIndv';
 import './App.css';
 
 function App() {
@@ -14,7 +15,8 @@ function App() {
 
         <div className="Routes">
         <Routes>
-          <Route path="/" element={<Principal />} />
+          <Route path="/TiendaDeLimpieza" element={<Principal />} />
+          <Route path="/TiendaDeLimpieza/producto/:ID" element={<ProductoIndv />} />
         </Routes>
         </div>
 

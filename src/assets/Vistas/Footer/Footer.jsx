@@ -35,8 +35,7 @@ function Footer() {
             <h4>Redes sociales</h4>
             <ul>
               <li><a href="#">Facebook</a></li>
-              <li><a href="#">Twitter</a></li>
-              <li><a href="#">Instagram</a></li>
+              <li><a href="https://www.instagram.com/limpieza_pluss/">Instagram</a></li>
             </ul>
           </div>
         </div>
