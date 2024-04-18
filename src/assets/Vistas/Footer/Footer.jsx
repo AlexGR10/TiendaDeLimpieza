@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Footer.css';
 
 function Footer() {
@@ -9,10 +10,10 @@ function Footer() {
           <div className="col-md-3">
             <h4>Información</h4>
             <ul>
-              <li><a href="#">Sobre nosotros</a></li>
-              <li><a href="#">Contacto</a></li>
-              <li><a href="#">Términos y condiciones</a></li>
-              <li><a href="#">Política de privacidad</a></li>
+              <li><Link to="/TiendaDeLimpieza/informacion/nosotros">Sobre nosotros</Link></li>
+              <li><Link to="/TiendaDeLimpieza/informacion/contacto">Contacto</Link></li>
+              <li><Link to="/TiendaDeLimpieza/informacion/terminos">Términos y condiciones</Link></li>
+              <li><Link to="/TiendaDeLimpieza/informacion/politicas">Política de privacidad</Link></li>
             </ul>
           </div>
           <div className="col-md-3">
@@ -21,14 +22,6 @@ function Footer() {
               <li><a href="#">Mi cuenta</a></li>
               <li><a href="#">Historial de pedidos</a></li>
               <li><a href="#">Wishlist</a></li>
-            </ul>
-          </div>
-          <div className="col-md-3">
-            <h4>Soporte</h4>
-            <ul>
-              <li><a href="#">Preguntas frecuentes</a></li>
-              <li><a href="#">Envíos</a></li>
-              <li><a href="#">Devoluciones</a></li>
             </ul>
           </div>
           <div className="col-md-3">

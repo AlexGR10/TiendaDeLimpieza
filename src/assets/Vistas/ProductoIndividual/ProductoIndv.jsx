@@ -8,6 +8,7 @@ const styles = {
     marginRight: '10%',
     backgroundColor: 'gray',
     padding: '20px',
+    with: '100%' ,
   },
   container: {
     display: 'flex',

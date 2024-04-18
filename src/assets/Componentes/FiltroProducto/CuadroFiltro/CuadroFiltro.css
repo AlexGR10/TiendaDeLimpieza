@@ -1,0 +1,40 @@
+.CuadroFiltro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: #7ba5d2;
+  padding: 20px;
+  color: white;
+}
+
+.categorias, .precio {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Ajustado para alinear los elementos a la izquierda */
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.categorias h4, .precio h4 {
+  margin-bottom: 10px; /* Espacio adicional debajo del título */
+}
+
+.categorias ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Eliminado el margen predeterminado */
+}
+
+.categorias ul li {
+  cursor: pointer;
+  margin-bottom: 5px; /* Espacio entre elementos de la lista */
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  width: 100%;
+}

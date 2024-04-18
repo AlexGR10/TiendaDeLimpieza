@@ -7,10 +7,10 @@ function BarraCategorias() {
     <div className="barra-categorias">
       <h2>Categorías</h2>
       <ul className="categorias-lista">
-        <li><Link to="/TiendaDeLimpieza/producto/1">Detergentes</Link></li>
-        <li><Link to="/TiendaDeLimpieza/producto/2">Limpiadores</Link></li>
-        <li><Link to="/TiendaDeLimpieza/producto/3">Cuidado del hogar</Link></li>
-        <li><Link to="/TiendaDeLimpieza/producto/4">Higiene personal</Link></li>
+        <li><Link to="/TiendaDeLimpieza/Filtro/Categoria/Detergentes">Detergentes</Link></li>
+        <li><Link to="/TiendaDeLimpieza/Filtro/Categoria/Limpiadores">Limpiadores</Link></li>
+        <li><Link to="/TiendaDeLimpieza/Filtro/Categoria/Cuidado%20del%20hogar">Cuidado del hogar</Link></li>
+        <li><Link to="/TiendaDeLimpieza/Filtro/Categoria/Higiene%20personal">Higiene personal</Link></li>
       </ul>
     </div>
   );

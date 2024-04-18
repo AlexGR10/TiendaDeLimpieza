@@ -1,0 +1,15 @@
+.productos-filtro {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: gray;
+    padding: 20px;
+    width: 100%;
+  }
+  
+  .producto {
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

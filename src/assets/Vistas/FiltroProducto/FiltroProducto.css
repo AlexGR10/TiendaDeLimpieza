@@ -1,0 +1,23 @@
+.FiltroProducto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.primero{
+    width: 100%;
+}
+
+.segundo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.CuadroFiltro{
+    width: 10%;
+}
+
+.FiltroProducto{
+    width: 90%;
+}

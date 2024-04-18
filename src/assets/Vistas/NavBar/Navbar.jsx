@@ -17,10 +17,10 @@ function Navbar() {
             <Link to="/TiendaDeLimpieza" className="nav-link custom-link">Inicio</Link>
           </li>
           <li className="nav-item custom-item">
-            <Link to="/TiendaDeLimpieza/productos" className="nav-link custom-link">Productos</Link>
+            <Link to="/TiendaDeLimpieza/Filtro/ID/10" className="nav-link custom-link">Productos</Link>
           </li>
           <li className="nav-item custom-item">
-            <Link to="/TiendaDeLimpieza/contacto" className="nav-link custom-link">Contacto</Link>
+            <Link to="/TiendaDeLimpieza/informacion/contacto" className="nav-link custom-link">Contacto</Link>
           </li>
         </ul>
       </div>
