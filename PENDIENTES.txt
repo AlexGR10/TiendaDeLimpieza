@@ -1,0 +1,4 @@
+Filtro:
+-Que funcione el precio
+-Que ordene el array en turno, no el principal
+

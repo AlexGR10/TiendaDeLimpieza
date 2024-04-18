@@ -14,13 +14,16 @@ function Navbar() {
       <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul className="navbar-nav custom-nav">
           <li className="nav-item custom-item">
-            <Link to="/TiendaDeLimpieza" className="nav-link custom-link">Inicio</Link>
+            <Link to="/TiendaDeLimpieza/login/User" className="nav-link custom-link">Iniciar Sesión</Link>
           </li>
           <li className="nav-item custom-item">
             <Link to="/TiendaDeLimpieza/Filtro/ID/10" className="nav-link custom-link">Productos</Link>
           </li>
           <li className="nav-item custom-item">
             <Link to="/TiendaDeLimpieza/informacion/contacto" className="nav-link custom-link">Contacto</Link>
+          </li>
+          <li className="nav-item custom-item">
+            <Link to="/TiendaDeLimpieza/login/Admin" className="nav-link custom-link">Administrador</Link>
           </li>
         </ul>
       </div>

@@ -7,6 +7,7 @@ import Principal from './assets/Vistas/Principal/Principal';
 import ProductoIndv from './assets/Vistas/ProductoIndividual/ProductoIndv';
 import FiltroProducto from './assets/Vistas/FiltroProducto/FiltroProducto';
 import Informacion from './assets/Vistas/Informacion/Informacion';
+import Login from './assets/Vistas/Login/Login';
 
 import './App.css';
 
@@ -23,6 +24,7 @@ function App() {
             <Route path="/TiendaDeLimpieza/producto/:ID" element={<ProductoIndv />} />
             <Route path="/TiendaDeLimpieza/Filtro/:filtro/:parametro" element={<FiltroProducto />} />
             <Route path="/TiendaDeLimpieza/informacion/:ruta" element={<Informacion />} />
+            <Route path="/TiendaDeLimpieza/login/:tipo" element={<Login />} />
           </Routes>
         </div>
         <div className="Footer">
