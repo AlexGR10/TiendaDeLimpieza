@@ -30,3 +30,18 @@
     color: #ff0000;
   }
   
+  /* Agrega estilos al botón Cerrar Sesión */
+.navbar-nav .custom-item .logout-button {
+  font-family: 'Minecraft', sans-serif;
+  transition: color 0.3s;
+  margin-right: 20px;
+  font-size: 18px;
+  color: #000; /* Color del texto */
+  background: none; /* Fondo transparente */
+  border: none; /* Sin borde */
+  cursor: pointer;
+}
+
+.navbar-nav .custom-item .logout-button:hover {
+  color: #ff0000; /* Cambia el color del texto al pasar el mouse */
+}

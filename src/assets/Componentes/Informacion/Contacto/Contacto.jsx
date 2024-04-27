@@ -10,7 +10,7 @@ function Contacto() {
         <a href="https://www.facebook.com/tu_pagina_de_facebook" target="_blank" rel="noopener noreferrer">
           <FaFacebook size={30} />
         </a>
-        <a href="https://www.instagram.com/tu_cuenta_de_instagram" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/limpieza_pluss/" target="_blank" rel="noopener noreferrer">
           <FaInstagram size={30} />
         </a>
         <a href="https://api.whatsapp.com/send?phone=+tu_numero_de_telefono" target="_blank" rel="noopener noreferrer">
