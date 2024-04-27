@@ -3,8 +3,8 @@ import React, { createContext, useState } from 'react';
 const AuthContext = createContext();
 
 const AuthProvider = ({ children }) => {
-  const [isLoggedIn, setIsLoggedIn] = useState(true);
-  const [userId, setUserId] = useState(1); // Agregamos el estado para almacenar el ID del usuario
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [userId, setUserId] = useState(null); // Agregamos el estado para almacenar el ID del usuario
 
   const login = (userId) => {
     setIsLoggedIn(true);
