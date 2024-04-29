@@ -5,9 +5,9 @@
       "Nombre": "Ariel",
       "Descripcion": "Contiene una fórmula que te permite usar menos producto por carga de lavado.",
       "Precio": 5.99,
-      "Imagen1": "/TiendaDeLimpieza/public/imagenes/1.png",
-      "Imagen2": "/TiendaDeLimpieza/public/imagenes/1.png",
-      "Imagen3": "/TiendaDeLimpieza/public/imagenes/1.png"
+      "Imagen1": "/imagenes/1.png",
+      "Imagen2": "/imagenes/1.png",
+      "Imagen3": "/imagenes/1.png"
   },
   {
       "ID": 2,
@@ -15,9 +15,9 @@
       "Nombre": "Lysol",
       "Descripcion": "Este producto cuenta con envase recargable para contribuir al medio ambiente.",
       "Precio": 7.99,
-      "Imagen1": "/TiendaDeLimpieza/public/imagenes/2.png",
-      "Imagen2": "/TiendaDeLimpieza/public/imagenes/1.png",
-      "Imagen3": "/TiendaDeLimpieza/public/imagenes/1.png"
+      "Imagen1": "/imagenes/2.png",
+      "Imagen2": "/imagenes/1.png",
+      "Imagen3": "/imagenes/1.png"
   },
   {
       "ID": 3,
