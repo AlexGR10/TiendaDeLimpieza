@@ -25,9 +25,9 @@
       "Nombre": "Bel en espray",
       "Descripcion": "Su fórmula concentrada no deja rayas ni residuos permitiéndote una limpieza más profunda.",
       "Precio": 4.99,
-      "Imagen1": "/TiendaDeLimpieza/public/imagenes/3.png",
-      "Imagen2": "/TiendaDeLimpieza/public/imagenes/3.png",
-      "Imagen3": "/TiendaDeLimpieza/public/imagenes/3.png"
+      "Imagen1": "/public/imagenes/3.png",
+      "Imagen2": "/public/imagenes/3.png",
+      "Imagen3": "/public/imagenes/3.png"
   },
   {
       "ID": 4,
@@ -35,9 +35,9 @@
       "Nombre": "Lysol",
       "Descripcion": "Contiene una solución que se disuelve con agua, ofreciendo una solución más compacta y fácil de almacenar.",
       "Precio": 6.99,
-      "Imagen1": "/TiendaDeLimpieza/public/imagenes/4.png",
-      "Imagen2": "/TiendaDeLimpieza/public/imagenes/1.png",
-      "Imagen3": "/TiendaDeLimpieza/public/imagenes/1.png"
+      "Imagen1": "/public/imagenes/4.png",
+      "Imagen2": "/public/imagenes/1.png",
+      "Imagen3": "/public/imagenes/1.png"
   },
   {
       "ID": 5,
